@@ -190,7 +190,7 @@ ShowGameStateUI.Broadcast(false);
   `Source/Project_V/Private/UI/GameStateUI.cpp`
 
 ## 미디어/링크
-- YouTube: TODO
+- YouTube: https://youtu.be/j2I2co4fJxk
 
 <!-- Video: 디스크 런처 3단계 패턴 시연 / Docs/Media/disk_launcher_demo.mp4 -->
 <!-- Video: 머신건 랜덤 스프레이 패턴 / Docs/Media/machinegun_spread_demo.mp4 -->
